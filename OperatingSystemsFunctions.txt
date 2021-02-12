@@ -1,1 +1,2 @@
 An operating system provides a safe and effective interface between hardware and the user. It makes it so much easier to use. It must be very complex to make as it is a collection of programs that handle a lot of different functions.
+An operating system must also interact with a variety of software applications. It must be able to open and run anything from browsers and word processors to spreadsheets and video games. This requires efficient flow of data between various hardware components and the processing systems including the chips and random access memory.
